@@ -104,5 +104,5 @@ curl -X POST http://localhost:5000/api/check-imei \
 
 ## Автор
 
-*Катричко Павел Дмитриевич*  
+*Рублев Павел Дмитриевич*  
 *Email: p1avel07@mail.ru*
